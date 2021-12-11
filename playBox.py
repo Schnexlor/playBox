@@ -36,7 +36,7 @@ class Player(object):
     #player based on SoundPlayer
 
     # set libraryPath and type
-    libraryPath = "/home/pi/schnudiPlayer/library/"
+    libraryPath = "/home/pi/playBox/library/"
     container = ".mp3"
     
     playlist = ""
