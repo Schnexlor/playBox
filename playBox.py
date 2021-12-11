@@ -1,4 +1,4 @@
-# schnudiPlayer1.4.py
+# playBox.py
 
 from soundplayer import SoundPlayer
 import RPi.GPIO as GPIO
