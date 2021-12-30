@@ -7,14 +7,23 @@ You can select different playlists by pressing button3 at startup. Alternative y
 Used Hardware:
 
 -Raspberry Pi Zero W
+
 -PCM5102 I²S DAC 
+
 -PAM8403
+
 -2x Speaker 
+
 -4x Buttons (button0 to 3)
+
 -3x LEDs 
+
 -1x RGB LED
+
 -4x 200- 1kOhm resistors
+
 -1x Power Switch
+
 
 optional:
 
