@@ -1,4 +1,4 @@
-# playBox
+# playBox1.7
 A simple python sound Player with buttons and LEDs based on SoundPlayer by erviveksoni
 There are 3 playlists each played by one button. The fourth button is for pause/resume. 
 If the player is paused you can switch in volume control by pressing button2 and button3 at the same time. VolUp:button0, VolDown:button2, exit:button3
