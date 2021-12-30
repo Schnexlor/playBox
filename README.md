@@ -5,12 +5,7 @@ If the player is paused you can switch in volume control by pressing button2 and
 You can select different playlists by pressing button3 at startup. Alternative you can enter this mode if player is paused and you press button0 and button3. Then select playlists by pressing the playlist buttons. Exit switch mode by pressing button3.
 
 Used Hardware:
-optional:
 
-    -18650 Li-Ion
-    -TP4056 Charger
-    -LM2596 Buck Boost
-    
 -Raspberry Pi Zero W
 -PCM5102 I²S DAC 
 -PAM8403
@@ -21,3 +16,9 @@ optional:
 -4x 200- 1kOhm resistors
 -1x Power Switch
 
+optional:
+
+    -18650 Li-Ion
+    -TP4056 Charger
+    -LM2596 Buck Boost
+    
