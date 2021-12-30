@@ -6,9 +6,11 @@ You can select different playlists by pressing button3 at startup. Alternative y
 
 Used Hardware:
 optional:
+
     -18650 Li-Ion
     -TP4056 Charger
     -LM2596 Buck Boost
+    
 -Raspberry Pi Zero W
 -PCM5102 I²S DAC 
 -PAM8403
